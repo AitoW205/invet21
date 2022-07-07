@@ -31,7 +31,7 @@
     "kurasuta": "^1.1.4",
     "libsodium-wrappers": "^0.7.5",
     "localstorage": "^1.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mysql": "^2.17.1",
     "net-ping": "^1.2.3",
     "node": "^13.3.0",
